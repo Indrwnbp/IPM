@@ -1,0 +1,102 @@
+.lingkaran{
+	padding-left: 50px;
+	margin: 10px;
+}
+
+.bulat1{
+	background: #3a7385;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 5px;
+	height: 60px;
+	border-radius: 50%;
+}
+.bulat2{
+	background: #f52509ee;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}
+.bulat3{
+	background: #dadd21;
+	padding:110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}.bulat4{
+	background: #40d812;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}.bulat5{
+	background: #b100b6;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}.bulat6{
+	background: #b100b6;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}
+.bulat7{
+	background: #2549be;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}
+.bulat8{
+	background: #b100b6;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}
+.bulat9{
+	background: #b100b6;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}
+.bulat10 {
+	background: #3a7385;
+	padding: 110px;
+	width: 110px;
+	float: left;
+	margin: 10px;
+	height: 50px;
+	border-radius: 50%;
+}
+
+ .blink_me10 .bulat10{
+  	animation: blinker 1s linear infinite;
+  }
+
+  @keyframes blinker {
+	50% {
+	  opacity: 0;
+	}
+  }
